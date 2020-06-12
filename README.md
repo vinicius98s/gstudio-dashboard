@@ -15,7 +15,7 @@ The way I like to name them is the same as a Designer normally would do, so you 
 
 ## Will you use a component library? Which one? Explain why.
 
-It's not exaclty a component library, but one I like to use when creating React components is [styled components](https://styled-components.com/) or [emotion](https://emotion.sh/docs/introduction). It simplifies a lot the styling in a elegant way, not to mention it already scss by default, so we can write a more powerful css.
+It's not exaclty a component library, but one I like to use when creating React components is [styled components](https://styled-components.com/) or [emotion](https://emotion.sh/docs/introduction). It simplifies a lot the styling in a elegant way, not to mention it already has `scss` by default, so we can write a more powerful css.
 
 ## How will you document the components to make them public for other members of your team can reuse components in the future?
 
